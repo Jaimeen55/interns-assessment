@@ -1,1 +1,1 @@
-Print("Hello World")
+Print("Namaste Bharat")
